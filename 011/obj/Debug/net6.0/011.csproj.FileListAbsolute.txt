@@ -1,0 +1,15 @@
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.csproj.AssemblyReference.cache
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.AssemblyInfo.cs
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\My_100_C_Sharp\011\bin\Debug\net6.0\011.exe
+D:\GeekBrains\My Git\My_100_C_Sharp\011\bin\Debug\net6.0\011.deps.json
+D:\GeekBrains\My Git\My_100_C_Sharp\011\bin\Debug\net6.0\011.runtimeconfig.json
+D:\GeekBrains\My Git\My_100_C_Sharp\011\bin\Debug\net6.0\011.dll
+D:\GeekBrains\My Git\My_100_C_Sharp\011\bin\Debug\net6.0\011.pdb
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.dll
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\refint\011.dll
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.pdb
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\011.genruntimeconfig.cache
+D:\GeekBrains\My Git\My_100_C_Sharp\011\obj\Debug\net6.0\ref\011.dll
