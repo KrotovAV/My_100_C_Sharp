@@ -13,7 +13,5 @@ if(a > 999 || a < 99 )
     return;
 }
 
-int b = a % 10;
-
-Console.WriteLine(b);
+Console.WriteLine(a % 10);
 Console.WriteLine();
