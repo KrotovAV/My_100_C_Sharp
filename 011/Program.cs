@@ -23,10 +23,5 @@ if((a % 100- a % 10)/10>a % 10)
 else{
     Console.WriteLine(a % 10);
 }
-//int b = (a % 100- a % 10)/10;
-//int c = a % 10;
 
-
-//Console.WriteLine(b);
-//Console.WriteLine(c);
 Console.WriteLine();
